@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "genius-car-mechanics"
-  }
+    "default": "genius-car-mechanics",
+    "my-dev-project": "genius-car-b5c69",
+    "staging staging": "genius-car-b5c69"
+  },
+  "targets": {}
 }
